@@ -1,0 +1,6 @@
+﻿,C1 Épaisseur max (−),C2 Largeur de coupe (−),C3 Qualité de coupe (+),C4 Coût maintenance (−)
+A1,30.0,0.1,1.0,20.0
+A2,100.0,0.7,1.0,40.0
+A3,50.0,1.0,2.0,10.0
+A4,300.0,2.0,3.0,35.0
+"TYPE (1=bénéfice, 0=coût)",0.0,0.0,1.0,0.0

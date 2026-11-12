@@ -1,0 +1,17 @@
+﻿,Investissement (k€),Exploitation (k€/an),CO₂ cycle de vie (t/an),Fiabilité (0-1),Acceptabilité sociale (0-10),Emplois locaux,Délai de mise en service (mois),Maturité technologique (TRL),Emprise au sol (ha)
+PV + batteries,620.0,18.0,45.0,0.8,8.0,7.0,8.0,9.0,2.5
+PV + diesel de secours,410.0,42.0,520.0,0.9,7.0,6.0,6.0,9.0,2.0
+Éolien + batteries,700.0,32.0,40.0,0.68,6.0,5.0,12.0,8.0,1.2
+Mini-hydroélectrique,1150.0,14.0,20.0,0.88,7.0,8.0,24.0,9.0,0.8
+Hybride PV-éolien-diesel,750.0,24.0,320.0,0.93,9.0,9.0,11.0,8.0,3.1
+Groupe diesel,200.0,90.0,2400.0,0.97,4.0,3.0,3.0,9.0,0.1
+Extension du réseau,980.0,12.0,1600.0,0.99,7.0,2.0,18.0,9.0,0.3
+Biomasse (gazéification),540.0,40.0,150.0,0.85,7.0,11.0,14.0,7.0,1.5
+Biogaz,610.0,38.0,130.0,0.82,6.0,9.0,16.0,7.0,1.0
+Géothermie,1900.0,20.0,60.0,0.94,5.0,6.0,36.0,6.0,0.6
+Micro-réseau PV + hydrogène,1350.0,28.0,25.0,0.86,5.0,5.0,20.0,5.0,3.8
+Solaire thermodynamique (CSP),1600.0,26.0,35.0,0.83,4.0,6.0,30.0,6.0,6.0
+Pile à combustible au gaz,880.0,55.0,900.0,0.95,5.0,3.0,10.0,6.0,0.2
+PV + éolien + batteries Li-ion,830.0,22.0,55.0,0.87,8.0,8.0,13.0,8.0,3.5
+"TYPE (1=bénéfice, 0=coût)",0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0
+POIDS,0.18,0.1,0.14,0.14,0.1,0.08,0.08,0.1,0.08
