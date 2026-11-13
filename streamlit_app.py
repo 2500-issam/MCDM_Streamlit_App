@@ -19,4 +19,4 @@ pages = {
 }
 st.navigation(pages).run()
 with st.sidebar:
-    st.caption("Cours d'aide à la décision, EMI Rabat, Pr Lamrani Alaoui")
+    st.caption("d'aide à la décision")
